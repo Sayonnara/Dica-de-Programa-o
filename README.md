@@ -1,2 +1,2 @@
 # Preciso Saber!
-Aqui estão dicas e conselhos preciosos de programação
+Aqui estão dicas e conselhos preciosas de programação
